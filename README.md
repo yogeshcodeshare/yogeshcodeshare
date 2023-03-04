@@ -1,4 +1,4 @@
-![logo](https://github.com/yogeshcodeshare/yogeshcodeshare/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)
+![logo](https://github.com/yogeshcodeshare/yogeshcodeshare/blob/main/Modern%20Minimalist%20Simple%20Technology%20Banner.png)
 <h1 align="center">Hi 👋, I'm Yogesh Mohite</h1>
 <h3 align="center">A passionate Manual/Automation Tester from India</h3>
 
