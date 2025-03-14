@@ -5,13 +5,11 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshcodeshare&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshcodeshare" /> </p>
 
-- 🔭 I’m currently working on [Springo](https://play.google.com/store/apps/details?id=com.springo)
+- 🔭 I’m currently working on [AkbarTravel Project](https://www.akbartravels.com/in/flight?lan=en)
 
-- 🌱 I’m currently learning **MySQL, Python**
+- 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on [Alosra E-commerce](https://www.alosraonline.com/)
-
-- 💬 Ask me about **Software Testing, Database Testing**
+- 💬 Ask me about **Automation Software Testing, Database Testing**
 
 - 📫 How to reach me **yogesh.ybm999@gmail.com**
 
